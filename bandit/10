@@ -4,4 +4,4 @@ usei o comando
 
 cat data.txt | strings | grep -i "="
 
-o strings coleta e printa 
+o strings coleta e printa texto legivel
