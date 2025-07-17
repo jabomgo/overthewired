@@ -1,0 +1,7 @@
+password = 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
+
+consegui usando o pipe de comandos |
+
+cat data.txt | sort | uniq -u
+
+-u -> linhas unicas

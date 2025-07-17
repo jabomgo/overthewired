@@ -1,0 +1,7 @@
+password = FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
+
+usei o comando 
+
+cat data.txt | strings | grep -i "="
+
+o strings coleta e printa 

@@ -1,0 +1,5 @@
+fiz usando o comando:
+
+find . -type f -size 1033c ! -executable
+
+password = HWasnPhtq9AVKe0dmk45nxy20cvUa6EG

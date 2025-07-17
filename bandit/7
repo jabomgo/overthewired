@@ -1,0 +1,9 @@
+password = morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
+
+Usei o find
+
+find . -user USER_OWNER -group GROUP_OWNER -size SIZEc 2>/dev/null
+
+2>/dev/null -> ignora todos os erros, o linux tem 3 canais, 0, 1 e 2, o 0 é entrada, o 1 saída e 2 erros
+
+estamos jogando fora os erros

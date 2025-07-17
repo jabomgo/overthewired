@@ -1,0 +1,5 @@
+password = 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
+
+usei o comando translate para mover as letras
+
+tr 'A-Za-z' 'N-ZA-Mn-za-m'
